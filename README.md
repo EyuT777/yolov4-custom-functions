@@ -3,7 +3,8 @@
 
 This project is an upgrade on the YOLOv3 project I've done. Here I've upgraded to YOLOv4 to increase accuracy and speed. 
 By the outcomes of this project, I've written a paper and presented it at the **InDabaX international conference 2021** and published a paper entitled _On Demand Mass Transit Service In Addis Ababa_. Be sure to Check it out on Page 216: https://ejssd.astu.edu.et/index.php/EJSSD/issue/archive
-
+ 
+To try out the custom functions, try running _python detect_video.py --weights ./checkpoints/yolov4-416 --size 416 --model yolov4 --video 0 --output ./detections/results.avi --count --detect_item person_ to detect and export data to the _csv_exports_ folder.
 
 A wide range of custom functions for YOLOv4
 

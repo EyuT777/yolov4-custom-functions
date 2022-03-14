@@ -1,5 +1,5 @@
 # yolov4-custom-functions: _Data Generation Features_
-## You can find the custom functions I added for data generation in <a ./core.functions.py>
+## You can find the custom functions I added for data generation in /core.functions.py
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
